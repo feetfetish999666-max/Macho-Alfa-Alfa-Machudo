@@ -42,10 +42,13 @@ Ser **Macho Alpha Alfa Machudo** é dominar o equilíbrio entre emoção e razã
 ---
 
 ## 🏗️ Estrutura do código  
----macho-alpha-alfa-machudo/
+## 🏗️ Estrutura do código
+
+```bash
+macho-alpha-alfa-machudo/
 │
 ├── src/
-│   ├── __init__.py         # marca como pacote python
+│   ├── __init__.py         # marca como pacote Python
 │   ├── core.py             # núcleo: inicialização e funções principais
 │   ├── mindset.py          # mensagens e lógica de mentalidade
 │   └── performance.py      # rotinas de performance/treino
@@ -59,6 +62,7 @@ Ser **Macho Alpha Alfa Machudo** é dominar o equilíbrio entre emoção e razã
 ├── main.py                 # script executável (modo cinematic)
 ├── README.md               # este arquivo
 └── LICENSE                 # MIT License
+```
 
 ## 📜 Licença  
 Este projeto está sob a licença MIT — uso livre, com créditos ao criador.  
