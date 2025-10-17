@@ -42,3 +42,13 @@ Ser **Macho Alpha Alfa Machudo** é dominar o equilíbrio entre emoção e razã
 ---
 
 ## 🏗️ Estrutura do código  
+---
+
+## 📜 Licença  
+Este projeto está sob a licença MIT — uso livre, com créditos ao criador.  
+
+---
+
+### 👑 Criado por:  
+**Mestre Gabriel — O Rei dos Alphas, Macho Machudo e Senhor do Código.**  
+🔥 Foco. Força. Disciplina. Dominância.
