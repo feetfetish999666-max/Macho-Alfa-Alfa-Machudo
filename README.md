@@ -41,7 +41,7 @@ Ser **Macho Alpha Alfa Machudo** é dominar o equilíbrio entre emoção e razã
 
 ---
 
-## 🏗️ Estrutura do código  
+ 
 ## 🏗️ Estrutura do código
 
 ```bash
